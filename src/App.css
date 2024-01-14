@@ -23,7 +23,9 @@ body {
 }
 
 .input {
-  background-color: hwb(0 100% 0% / 0.75);
+  background-color: #fff;
+  font-size: 8px;
+  color: black;
   border-radius: 2rem;
   
 }
